@@ -1,0 +1,11 @@
+C:\Users\luis.fpcunha\source\repos\aula07Funcoes\aula07Funcoes\bin\Debug\aula07Funcoes.exe.config
+C:\Users\luis.fpcunha\source\repos\aula07Funcoes\aula07Funcoes\bin\Debug\aula07Funcoes.exe
+C:\Users\luis.fpcunha\source\repos\aula07Funcoes\aula07Funcoes\bin\Debug\aula07Funcoes.pdb
+C:\Users\luis.fpcunha\source\repos\aula07Funcoes\aula07Funcoes\obj\Debug\aula07Funcoes.csproj.AssemblyReference.cache
+C:\Users\luis.fpcunha\source\repos\aula07Funcoes\aula07Funcoes\obj\Debug\aula07Funcoes.csproj.SuggestedBindingRedirects.cache
+C:\Users\luis.fpcunha\source\repos\aula07Funcoes\aula07Funcoes\obj\Debug\aula07Funcoes.Form1.resources
+C:\Users\luis.fpcunha\source\repos\aula07Funcoes\aula07Funcoes\obj\Debug\aula07Funcoes.Properties.Resources.resources
+C:\Users\luis.fpcunha\source\repos\aula07Funcoes\aula07Funcoes\obj\Debug\aula07Funcoes.csproj.GenerateResource.cache
+C:\Users\luis.fpcunha\source\repos\aula07Funcoes\aula07Funcoes\obj\Debug\aula07Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\luis.fpcunha\source\repos\aula07Funcoes\aula07Funcoes\obj\Debug\aula07Funcoes.exe
+C:\Users\luis.fpcunha\source\repos\aula07Funcoes\aula07Funcoes\obj\Debug\aula07Funcoes.pdb
